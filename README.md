@@ -17,7 +17,7 @@ This project is to assist PyBer company to improve access to ride-sharing servic
 
 ### 2.3 Total weekly fare for each type of city from Jan 1, 2019 to Apr 29, 2019.
 
-![Title](Analysis/PyBer_fare_summary.png)
+![alt text](https://github.com/giseledoan/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 - Total weekly fare of urban cities is the highest among 3 types of city. Rural cities' is the lowest. 
 - In all 3 types of city, the fare is highest in the last week of February, following by a decline of fare in the first week of Mar.
